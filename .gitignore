@@ -1,0 +1,14 @@
+
+# Archivos y carpetas generadas por Unity que no se deben subir
+Library/
+Temp/
+Logs/
+UserSettings/
+Packages/
+.vs/
+obj/
+.DS_Store
+.idea/
+*.csproj
+*.unityproj
+*.sln
